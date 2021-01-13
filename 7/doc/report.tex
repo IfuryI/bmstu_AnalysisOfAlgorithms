@@ -1,0 +1,29 @@
+\documentclass[utf8x, 12pt]{G7-32}
+
+\include{preambule.inc}
+\include{listings.inc}
+
+
+\begin{document}
+
+\frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
+
+\input{0_title.tex}
+
+\tableofcontents
+\pagebreak
+
+\input{1_introduction.tex}
+
+\mainmatter % это включает нумерацию глав и секций в документе ниже
+
+\input{2_analytical.tex}
+\input{3_design.tex}
+\input{4_technological.tex}
+\input{5_research.tex}
+
+\backmatter % Здесь заканчивается нумерованная часть документа и начинаются ссылки и
+\input{6_conclusion.tex}
+\input{7_biblio.tex}
+
+\end{document}
