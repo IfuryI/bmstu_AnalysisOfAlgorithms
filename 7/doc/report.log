@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1566,7 +1566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 []\T2A/cmr/m/n/12 Intel\TS1/cmr/m/n/12 Ѓ \T2A/cmr/m/n/12 Core\TS1/cmr/m/n/12 Ч 
-\T2A/cmr/m/n/12 i5-7200U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
+\T2A/cmr/m/n/12 i5-8250U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
  []
 
 
@@ -1578,7 +1578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
 Overfull \hbox (11.65431pt too wide) in paragraph at lines 20--21
 \T2A/cmr/m/n/12 https://www.intel.com/content/www/us/en/products/processors/cor
-e/i5-processors/i5-7200u.html 
+e/i5-processors/i5-8250u.html 
  []
 
 ) [17

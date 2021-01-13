@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1491,13 +1491,10 @@ File: ./img/testing.png Graphic file (type png)
 Package pdftex.def Info: ./img/testing.png  used on input line 116.
 (pdftex.def)             Requested size: 320.87582pt x 359.90126pt.
  [9 <./img/testing.png>]) (./5_research.tex
-
-LaTeX Warning: Citation `processor-i5-7200u' on page 10 undefined on input line
- 13.
-
 PGFPlots: reading {data/time-models.dat}
 PGFPlots: reading {data/time-models.dat}
 Missing character: There is no ; in font nullfont!
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1520,7 +1517,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 []\T2A/cmr/m/n/12 Intel\TS1/cmr/m/n/12 Ѓ \T2A/cmr/m/n/12 Core\TS1/cmr/m/n/12 Ч 
-\T2A/cmr/m/n/12 i5-7200U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
+\T2A/cmr/m/n/12 i5-8250U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
  []
 
 
@@ -1532,7 +1529,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
 Overfull \hbox (11.65431pt too wide) in paragraph at lines 15--16
 \T2A/cmr/m/n/12 https://www.intel.com/content/www/us/en/products/processors/cor
-e/i5-processors/i5-7200u.html 
+e/i5-processors/i5-8250u.html 
  []
 
 
@@ -1573,9 +1570,6 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
  ) 
 Here is how much of TeX's memory you used:
@@ -1599,10 +1593,10 @@ exlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/202
 st/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
 c/cm-super/sfti1440.pfb>
-Output written on report.pdf (13 pages, 1074883 bytes).
+Output written on report.pdf (13 pages, 1074407 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
+ 403 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  131 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

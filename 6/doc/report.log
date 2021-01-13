@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 19:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.1)  13 JAN 2021 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1504,7 +1504,7 @@ No file report.bbl.
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 []\T2A/cmr/m/n/12 Intel\TS1/cmr/m/n/12 Ѓ \T2A/cmr/m/n/12 Core\TS1/cmr/m/n/12 Ч 
-\T2A/cmr/m/n/12 i5-7200U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
+\T2A/cmr/m/n/12 i5-8250U Processor [Ёлек^^?трон^^?ный ре^^?сурс]. –е^^?
  []
 
 
@@ -1516,7 +1516,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
 Overfull \hbox (11.65431pt too wide) in paragraph at lines 18--19
 \T2A/cmr/m/n/12 https://www.intel.com/content/www/us/en/products/processors/cor
-e/i5-processors/i5-7200u.html 
+e/i5-processors/i5-8250u.html 
  []
 
 ) [20
@@ -1561,7 +1561,7 @@ ype1/public/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super
 /sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.
 pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on report.pdf (20 pages, 1141185 bytes).
+Output written on report.pdf (20 pages, 1140619 bytes).
 PDF statistics:
  602 PDF objects out of 1000 (max. 8388607)
  527 compressed objects within 6 object streams
